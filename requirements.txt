@@ -1,0 +1,12 @@
+# Pashto TTS — inference dependencies
+# Install PyTorch separately first: https://pytorch.org/get-started/locally/
+# Then run: pip install -r requirements.txt
+
+torch>=2.0.0
+torchaudio>=2.0.0
+gradio>=4.0.0
+librosa>=0.9.0
+numpy
+scipy
+matplotlib
+tqdm

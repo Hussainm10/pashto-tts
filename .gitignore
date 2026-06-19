@@ -1,0 +1,34 @@
+# Model weights (too large for GitHub — use download_model.sh)
+model/*.pth
+model/*.pt
+model/*.bin
+model/*.safetensors
+
+# Training outputs (not part of this repo)
+logs/
+runs/
+checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated audio (local outputs)
+output*.wav
+generated*.wav
+test_output*.wav
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env/

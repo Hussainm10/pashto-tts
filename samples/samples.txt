@@ -1,0 +1,39 @@
+PASHTO TTS SAMPLES — G_314000, noise_scale=0.4
+============================================================
+
+File: 01_salam.wav (0.5s)
+Text: سلام
+
+File: 02_manana.wav (0.7s)
+Text: مننه
+
+File: 03_greeting.wav (2.7s)
+Text: سلام، زه ستاسو سره مرسته کولی شم
+
+File: 04_school.wav (1.7s)
+Text: زه هره ورځ مکتب ته ځم
+
+File: 05_pashto_history.wav (2.6s)
+Text: دا زموږ د پښتو ژبې تاریخ دی
+
+File: 06_afghanistan.wav (2.4s)
+Text: افغانستان یو ښکلی هېواد دی
+
+File: 07_peace.wav (2.1s)
+Text: سوله او امنیت ډېر مهم دي
+
+File: 08_weather.wav (1.7s)
+Text: نن ورځ هوا ډېره ښه ده
+
+File: 09_pashtun.wav (3.2s)
+Text: زه پښتون یم او پښتو خبرې کوم
+
+File: 10_education.wav (5.1s)
+Text: زه غواړم چې ټول ماشومان مکتب ته ولاړ شي او زده کړه وکړي
+
+File: 11_long_history.wav (7.6s)
+Text: زموږ د پښتو ژبې تاریخ ډېر پخوانی دی او دا ژبه د نړۍ په مختلفو برخو کې ویل کیږي
+
+File: 12_country.wav (5.6s)
+Text: افغانستان یو هېواد دی چې د لوړو غرونو او شنو درو لپاره مشهور دی
+

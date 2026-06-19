@@ -1,0 +1,136 @@
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_9876789663073694186449619920121.wav|0|انتهایي وروستی،اخیريیمږ به اخیری پرېکړه سبو وکو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_21296582431486534615200128451914021.wav|0|زه هم ښه یم، مننه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1314576024144318286895097870614526.wav|0|لکه احمد، محمود، رڼا او خالد په آزموینه کې بریالي شوي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_192333815087492809632641751814517.wav|0|بې نښو نښانو لیکنه لوستونکو ته ستونزې جوړه وې۔ په ځینو ځایونو کې ترې سمه مونا نه اخیستل کیږي۔ دغه نښې نښانې په لوندې ډول دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_13649891321301931594185227533421573.wav|0|پاچاهيبادشاهي،بود شیید ظاهر شاه بودشیی څلوېښت کوله دوم وکړ
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_10052794179903185080391032514839.wav|0|يې میږ په هېواد کې کومې لوبې روج دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1352144111129646937431933514718142.wav|0|بربنډلوڅ، لغړدا موشوم په کوڅه کې بربنډ ولوړ وو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_19643974031319948018149096879112254.wav|0|لکه احمد، محمود، رڼا او خالد په امتحان کې کامیوب شوي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_15250703482475254032551499817438.wav|0|مننه، خیر سې، چې پوه د کړم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1288285831402665078149271666021529.wav|0|بېلابېلبېل بېلپه هوټل کې رکم رکم خوړه چمتو شوي وی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1295498098151555080773755367914667.wav|0|ښه نو څوک د موټر چلولو اجازه لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_3378933521164931122169894302615964.wav|0|السلام علیکم اجمل جانه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_19966696801018810893100099079518168.wav|0|برق برېښنابرق ډېر سهولتونه رو منځته کړي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_19816092184428127159951888713576.wav|0|ښه نو یو لس لیتره ډبی رو وخله
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1320250299101798596455305395522643.wav|0|تپه تیارهتور تمشپه مې په تکه تېره تیاره کې تېره کړه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1450781111888116049166254345413009.wav|0|معتدی فعل
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1713003093662732500102706265819616.wav|0|ونهونههغه یی ونې لوندې ویدېږي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_3934136291965960872116813232214809.wav|0|خیروسې قاضي صیب، احمد په مسافرۍ رون و مو ورته قرض رپۍ ورکړې اوس یې نه رو کوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_18904204671289001960175793500719021.wav|0|وداناباددا پل خیبر ودون کړی وو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1282597899137705153225508964413622.wav|0|احمد خپل سیر میټر خرڅوي۔ دلته سیر صفت دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_17822864831467882172208441946316234.wav|0|اړهتعلق، مربوطدا کتوب په مو پورې اړه نه لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1782997572009323051160783801915033.wav|0|مو هم له اول ټولګي شروع کړې دو، اوس په دویم ټولګي کې یم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_43436495154083729173247407322148.wav|0|مولۍمولۍ،میلۍمیلۍ ځنته وخت لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_29171621716510854150404322120709.wav|0|بصیرتلیدنه، کتنهمو په پوره بصیرت سره پارچه حل کړه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_68868412189954980536649196722733.wav|0|چوکرههلکدا د رییس چوکره دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_23767355871040250184640549317384.wav|0|بلکول همداسې دو، ما همدغه خبرې په پوم کې ونیولې او په کورس کې شامل شوم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_105498139656324961020502646724820.wav|0|جدالجګړه،جنګپه وړې کورینې بوندې جنګ کړل ګټه نه کي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_19146101591119711910208900901714746.wav|0|د پېژندګلوۍ په اړه درېیمه مرکه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_235493712131355924480838130925684.wav|0|چاودېدلدرزکېدلد پښې چوودېدل د سوړه له وجې کېږي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_826428327131417894398635194325736.wav|0|چنډخه،چنګښهچونګښه چنګښه په اوبو کې ژوند کوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_763742273331260901156977087825319.wav|0|جنجړمړاوی، شیتهدا په ریښتیا هم جنجړ ځون دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_18390430349948681470086934615641.wav|0|جاوېده ستړی مه شې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1055471115728961795126199280616880.wav|0|قاضي صیب زه یایم چې ونه به یتو په حکم رو نه شي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1476511091344707024152705894222721.wav|0|چورلېدلڅرخېدلپه ګرمۍ کې د سر چورلېدل عادي خبره دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_242726103141990285840756325818190.wav|0|زړهقلبد انسون زړه څلور جوفه لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_63342612567552430379352818813823.wav|0|زلمیه! دا داوو، چېرته وخلم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1721117086414600517113964017516821.wav|0|هر څوک چې د یو اته کلنۍ عمر یې پوره کړی وي او له عملي او نظري امتحان وروسته لایسنس ورکي او وروسته د میټر چلولو حق لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_74506585584245747655096510717686.wav|0|خیرت خو به وي، څرګه مو را پېښه وکه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_497450852212054549864646460914849.wav|0|غېږ نیول خو به په ورزش کې نه روڅي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_116867467171078807996239587020840.wav|0|تسلیميسپورنهد وسایلو تسلیمي به ډېر وخت وغوړي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_490723592264446101205338977223233.wav|0|تصورخیال،امکانهېڅ امکان نه وه، چې هغه به کامیاب شي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_363912174153034270172012607818181.wav|0|برېتد پوس شونډې وېښتهد برېتونو لنډول سنت طریقه دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_573355966201198762735705327016168.wav|0|شنبهد اونۍ اوله ورځرو تلونکې شنبه د احمد د ورور وده دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_18950788011956109526204728508626025.wav|0|ځورولازارولد ماشومانو ځورول هېڅ ښه کور نه دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1457425546105702250177921923219605.wav|0|کاریزکاریزکورېز ینه غوټ وچ شو ل
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1397860344805459979184593395326129.wav|0|څرنګوالیبڼه، شکلزه به د خپلې پروژې بڼه درته وړاندې کم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1284294161108541401661778924170.wav|0|تنګ زړیزړه تنګیاحمد زړه تنګی وړکی دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1603853465337032594106483429216933.wav|0|زرغونشینکوبل ډېر زیوت زرغون پارکونه لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_850732233999979279187391155116217.wav|0|انډیوالوندوستون، ملګرياحمد خپل انډیوالون مېلمونه کړي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1547299610925357198185714563322602.wav|0|تپاندناقرارهزړه مې ناقروره دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_20435851860974732150375893317340.wav|0|امپراتورمقتدر پاچاد روم پاچاهانو ته امپراتور وېل کېده
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_170438373857778939917626926922134.wav|0|پی مخیښایستههغه ډېر خوسته ځون دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_106044553981194163465730149522030.wav|0|پرېوللپرېمینځلد کر د کولی مینخل د ذهل دنده دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_623119750915745157117559499320271.wav|0|حیوانات،حیوانون
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_105980410130711853073898217915711.wav|0|وعلیکم السلام څانګې ته هم ستړې مه شې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_210907511942346172202879867917591.wav|0|هر ځی کې دومره مه ډوریږه، بکسینه روخله، چې یمو او یتو د تلوشي ور دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1433205542125076278153986408719677.wav|0|توکيوسایلپه بازورونو کې ځنې شیان ډېر قېمته شوي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_21215860851245495744138877318016156.wav|0|پلورګنۍد پلور خپلوناتحود يې میږ د پلورګنۍ د قووت ټکی دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1774772259814401729657821712870.wav|0|په پښتو کې خپلواک غږینه اووه دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1904572689113592495416428196715742.wav|0|کتوب ویل د انسان علم زیتوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_18256037197700652240431663317749.wav|0|دا خلک که په کوبل کې متفرفه امتحان ورکوي، نو د لوړو زده کړو وزارت ورته یوه فورمه جوړه وې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1006590853123563966836892293214853.wav|0|کومه لوبه یې ګټلې دو که نه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1353415388141456025298810394820197.wav|0|بدکرداربدعملهبد کردر یتوسې د بریالیتوب مخه نیسي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_2814152381518254807207290473617601.wav|0|یی دا ټکسي میټر ځکه ولوړ دي، چې مو او تو غوندې خلک تر کرینو رسوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_12030305271890123165212864701413560.wav|0|السلام علیکم! و علیکم السلوم۔ ستړی مه شې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_7682476321199254859160869599322842.wav|0|ترشياچارڅوک چې د معدې مشکل لري، باید اچار ونه خوري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1144563338111996743073572945617958.wav|0|بوغبڼيې میږ بوغ له رنګارنګ ګلونو ډک دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_161355386386530859229290748722457.wav|0|تامبشپړد مکتب په اړه مې هر ډول بشپړمالومات شریک کړل
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_41597713287970944188134977717261.wav|0|روږدیمعتاداغه په هیرویینو روږدی دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_944229998847493526133388260311371.wav|0|او له دې نوي ترکیب یا جوړښت څخه يې یوه نوې مانا لوسته روغلې وي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1734345012534889931125893761514754.wav|0|ډېر ښه سړی ښکوري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_77032058352901514743591128115780.wav|0|ښه وخت به دې تېر شوی وي۔ په کوبل کې هوڅرګه وه، خرې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_616103563408897017193356753011311.wav|0|د دې څلور څلور تورو له جملې څخه لوندې اته توري د پښتو ژبې خپل ځانګړي یا خاص توري دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_689979807140518381792310952026117.wav|0|څرب،مزیچاغدا مول ښه مزی دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_704498720198451915681653185415561.wav|0|و علیکم السلام
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_42152644546770958560551559926268.wav|0|حرصوږ سترګی وږی سترګی ښه خصلت نه دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_68132551916236444274703690313081.wav|0|دا هغه ضمیرینه دي، چې د نوم پر ځی د پوښتنې په ډول کورول کېږي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_7125854090984025822527554826254.wav|0|حذف،ړنګولکمونه، غورځونهله مبایل څخه مې ضرور شیان ړنګ شوي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_242845415293675801149395186016823.wav|0|هغه څوک چې دا نښې مراعات نه کړي، د ټکارد را منځته کېدو سبب ګرخي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_71565059214920380744931704224816.wav|0|جذابراښکونکی،په زړه پیريشبیر ریښتیا هم زړه پیري دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_332246583209964485469349831020249.wav|0|نسنس یتونس مشکل لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_47811505184879110094753430218935.wav|0|سترلویسوله یمږ ستر ارومان دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_2785173581454576121134736010715835.wav|0|زه څم ناوخته کږي، چېرته کور لرم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_22680190164292566881356997014628.wav|0|کاکړۍ لهجه دا لهجه په ځينو کلیمو کې لوديځې لهجې او په ځينو کې له مرکزي لهجې سره نیږدېولی لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1215906226171951382815493679215994.wav|0|يې له تذکرې او عکس پرته ثبت نام نه کېږي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_10777597671045990932214163968611091.wav|0|د پښتو ژبې تاریخ
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1621885491126045436073321957226176.wav|0|څه وختکلهڅه وخت یمیږ کره راڅې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_169027011105227091515693205816212.wav|0|انګړحوېلۍمیږ د کور انګړ ښکلې ونې لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_485584211209268039615356113417288.wav|0|ما په تلوېزیون ولیده، ډېره خطرنوکه مالومېده، سخت یې وډور کړم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_626475622842431576135697864417644.wav|0|یتو خبره سمه دو، خو هغه ځی د هغه کسونو لپوره دی، چې له وطن څخه وځي۔ میږ خو داخلي پرواز لرو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1831606249152729971391619151321599.wav|0|پارېدللمسېدل،هڅیدلد خلکې هڅیدل غټه چلکی دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_6514412341484009446134164259319793.wav|0|تاونزیون، جرمانهتجارت کله نا کله تاون لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_465283347163920247975802729319643.wav|0|اندېښنهغمزه ښه یم، اندېښنه مه که
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_188497943071759564488323205518959.wav|0|کتنځیمعاینه خانه دولته د ډاکټرمعاینه خانه۔ نیشته
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1885143038689232987157571954219509.wav|0|لمرلمرلمر هر وخت ځلېږي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_384999495156494379144839260721419.wav|0|بې زغمهبې حوصلېځوانون نیر بې حوصلې شوي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1097908233118105601336053221217368.wav|0|انتخابولټاکلد خلکو انتخابول د جرګې کور دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_188086436143908310572780251922167.wav|0|چایچایشین چای ر ته تیورکړه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_11421728672298076748631415425686.wav|0|چاڼېدلوبیجویدلپاکېدلد دغه بیجویدل به میږ بدن ته ښه وي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_20803984977298791512266814222176.wav|0|دستمالدسمال،دسمولدا دسمول په څو دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_20370378631575444227176106107515936.wav|0|انشا الله هارڅه به سم شي، په مخه مو ښه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1828470762167593145575722060319696.wav|0|روږدیمعتادهغه په هیرویینی رږدی دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_360539218160225423426672364317505.wav|0|د دې لپوره چې انټرنېټ زده کړې اول باید کمپیوټر زده کړې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_28478938238046589101413940517442.wav|0|ته ویس په څووم ټولګي کې یې او په کیم مکتب کې درس یایې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_127426482131885949173431412818243.wav|0|او بیا به نو امتحان ورکوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_168264578423843753511439076522968.wav|0|تصادمټکر،پېښهاتل د مټر په پېښه کې خوږشو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1947207321266645666190929171025339.wav|0|جنون ،مین توبلېونتوب نین توب د عقل د ختمتدې لامل کېږي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_131045776751172166930096225355288.wav|0|اصلي اعداد بڼه په جمله کې استعمالدرې درې پوره درې کوله وړوندې فارغ شوم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_898668515110117667186930689717689.wav|0|زمیږ مطلب د کانکور امتحان ته تیوری دو، تو څه ډول تیوری نیولی وو، چې طب پوهنځي ته کمیاب شوې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_90934321281487591123503031024750.wav|0|ټیکلهډوډۍ،مړۍد غرمې لپوره مړۍ تیوره کم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_2129566587601167009178055962417217.wav|0|درهدرهد پغمون دره ښکلې منظرې لري
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_937261640809756790165388871914629.wav|0|ژ د مرکزي لهجې په څېر ز تلفظ کوي او ژوند ، ژبه ، ژمی په زوند ، زبه ، زمي وړي او تلفظ کوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_760332602144954409127343088625262.wav|0|جمجمهککرۍ،کوپری کوپری د انسان د بدن غوټنه مهمه برخه دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_2080470345863971380191475654714862.wav|0|دا څرې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1171674043150674651051096636513589.wav|0|پنځه منه نخود هم وتله
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_168420410249989731515798431214581.wav|0|وعلیکم السلوم! له کوره وختي رو رون شوم؛ خو په لیاره کې ګڼه ګوڼه وه، نوخته شو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_20842697201387110520126640600714650.wav|0|د يوې ژبې نورې لهجې د وخت په تېرېدو سره معياري ژبه پياوړې کوي او په خپله لهجې وری ، وری خپله بڼه له لوسه ورکوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1367716961533288936115862474415984.wav|0|په فورمه کې خپل نوم، د پلور نوم، د لېسې نوم او د فراغت کول لیکي، د تېرکول د کانکور د امتحان په اړه مالومات لیکي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_8327876941733999380167199361615458.wav|0|ښه! پانتون ته کامیوب شو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1559473919169004435367851025825692.wav|0|چپرکټعصري کټچپرکټ د خب لپوره بهترینه وسله دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_143300858692048990593959780413686.wav|0|په پیرته جمله کې د چې د وصل کلیمې په مرسته یوه خپلوکه او یوه تابع جمله سره نښلول شوي دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_19505524331614046532185611620122133.wav|0|پیمانتړونمیږ باید د سولې تړین لاسلیک کړی وی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_81183149341511146688246605816486.wav|0|تلپوتېدایميخدای د تلپوتې سوله رو ولي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1819584274981916209109334502820259.wav|0|مړوندمړوندلوس یې په مړوند کې موت شوی دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_5156869341453687375184940833918909.wav|0|خدای بښلیمرحومخدای بښلی احمد ډېر غیرتي ځون وو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_15725389791881571264179147645817636.wav|0|دولته یې د اخیر ور لپوره ږدو، د تیارې خلک یې وړي او په تیاره کې یې وچوي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_315948105157631626987414336017334.wav|0|کورسونه خو د مکتب په وخت کې نه وي، ګهیځ او مازدیګر یې هم ویلی شې
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1262899476104475834966987778714105.wav|0|يې تو دې هم مبارک وي۔ طاعت او عبادت دې قبول شه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_19970715791012769838193581145516847.wav|0|عمرانه! په دې لیاره د سروبي، درونټې، مارکو او تورخم بازورینه پروته دي
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_125147398781545137985751558917419.wav|0|د تذکرې اخیستو په اړه
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_18519990451464279671184942030817699.wav|0|بل دا چې د ورځې یو ساعت زه هم له تاسو سره کومک کړی شم
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1752611692358682670110089907020781.wav|0|بنیادمانساناخیرهم هغه انسان دی
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_11532918711123190086164826623725317.wav|0|جنجاليلانجمند دیږ نیکه لانجمن انسان وو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_111003487019647331324379009118308.wav|0|اجدادنیکه ګاند احمد اجداد په همدې سیمه کې اوسېدل
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_1919584815185048263879336789211072.wav|0|ژبه چي شی دو
+/mnt/e/orpheusTTTSSS/pashto_tts/data/mangal_processed/common_voice_ps_8421889251294413193363461819812.wav|0|تاوخونهتوخونهتاوخونه په ژمي کې دېر خوند کوي
