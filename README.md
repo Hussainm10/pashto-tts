@@ -18,6 +18,7 @@ A Pashto Text-to-Speech system trained from scratch using the **MB-iSTFT-VITS2**
 - [How It Was Built](#how-it-was-built)
 - [Supported Characters](#supported-pashto-characters)
 - [Retrain From Scratch](#retrain-from-scratch)
+- [Full Training Guide](TRAINING_GUIDE.md)
 - [File Guide](#file-guide)
 - [Limitations](#limitations)
 
@@ -280,15 +281,19 @@ Follow these steps if you want to train your own version (different accent, more
 
 ### 1. Prepare your audio data
 
-You need WAV files (mono, 22050 Hz) and a text file pairing each file with its transcript:
+You need WAV files (mono, 22050 Hz) and a text file pairing each file with its transcript.
+Each line has **3 pipe-separated fields**: `wav_path | speaker_id | text`
 
 ```
-# filelists/your_train.txt  (pipe-separated)
-path/to/audio01.wav|پښتو متن
-path/to/audio02.wav|بل متن دلته
+# filelists/your_train.txt
+/absolute/path/to/audio01.wav|0|پښتو متن دلته
+/absolute/path/to/audio02.wav|0|بل متن دلته
 ```
 
+The `0` in the middle is the speaker ID — always `0` for single-speaker training.
 Recommended split: 90% train, 5% validation, 5% test.
+
+> See [TRAINING_GUIDE.md](TRAINING_GUIDE.md) for a complete walkthrough including data prep scripts, common errors, and training tips.
 
 ### 2. Update the config
 
