@@ -415,4 +415,4 @@ The trained model weights and audio samples are released for research and educat
 
 ---
 
-*Trained at [BarakatPay](https://barakatpay.com) · Architecture: [MB-iSTFT-VITS2](https://github.com/MasayaKawamura/MB-iSTFT-VITS2)*
+*Architecture: [MB-iSTFT-VITS2](https://github.com/MasayaKawamura/MB-iSTFT-VITS2)*
